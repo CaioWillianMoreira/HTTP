@@ -1,4 +1,4 @@
-# ![#1589F0](Códigos de status de respostas HTTP)
+# Códigos de status de respostas HTTP
 
 ## Respostas informativas
 
